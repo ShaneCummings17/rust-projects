@@ -4,10 +4,9 @@ use std::io;
 
 fn main() {
     println!("Welcome to the factorial calculator!");
-
-    // Get user input
     let answer: u128;
 
+    // Get user input
     loop {
         let mut user_input = String::new();
         println!("Please enter a number");
