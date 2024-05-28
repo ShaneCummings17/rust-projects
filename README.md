@@ -6,3 +6,5 @@ List from: https://cplusplus.com/forum/beginner/3473/
 1. Find the factorial of a number entered by the user. (check for all conditions).
 
 2. Write a currency converter from Euro to Dollar and vice versa.
+
+3. Write a program that prints out a triangle from smallest to largest; user inputs bottom number.
