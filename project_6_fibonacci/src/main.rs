@@ -1,3 +1,7 @@
+// 6. Create a program which generates Fibonacci series till a number
+// 'n' where 'n' is entered by the user. For eg. if the user enters 10
+// then the output would be: 1 1 2 3 5 8.
+
 use std::io;
 
 fn main() {
